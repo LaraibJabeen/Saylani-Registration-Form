@@ -1,0 +1,33 @@
+#h2_form{
+    color:rgb(135, 31, 233); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    text-decoration: underline;
+}
+
+#table_1{
+    color:white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(135, 31, 233); padding: 20px; height: 80%; width: 68%;
+    border-style: solid; border-color:rgb(74, 6, 138);  border-spacing: 10px;
+}
+
+
+.q1{
+    color:rgb(135, 31, 233) ;
+
+}
+
+
+/* coding for second page*/
+
+h1{
+    color: rgb(13, 197, 13);
+}
+
+#h2_thx{
+    color:rgb(135, 31, 233) ;font-family: 'Times New Roman', Times, serif;
+}
+
+.go{
+    color:rgb(74, 6, 138);font-size:35px;
+}
+
+
